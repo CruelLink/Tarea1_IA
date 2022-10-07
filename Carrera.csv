@@ -1,0 +1,66 @@
+Id_Carrera,Carrera,Anios, Num_de_Clases,Facultad
+1,Licenciatura en Biologia,5,58,Facultad de Ciencias
+2,Licenciatura en Quimica y Farmacia,5,59,Facultad de Ciencias
+3,Licenciatura en Microbiologia,5,50,Facultad de Ciencias
+4,Licenciatura en Fisica,4,61,Facultad de Ciencias
+5,Licenciatura en Matematicas,5,57,Facultad de Ciencias Economicas_Administrativas y Contables
+6,Licenciatura en Administracion de Empresas,4.5,49,Facultad de Ciencias Economicas_Administrativas y Contables
+7,Licenciatura en Administracion Aduanera,4,62,Facultad de Ciencias Economicas_Administrativas y Contables
+8,Licenciatura en Administracion Publica,4.5,63,Facultad de Ciencias Economicas_Administrativas y Contables
+9,Licenciatura en Informatica Administrativa,2,59,Facultad de Ciencias Espaciales
+10,Maestria en Astronomia y Astrofisica,1,52,Facultad de Ciencias Espaciales
+11,Diplomado en Sistemas de Informacion Geografica,4.5,48,Facultad de Ciencias Espaciales
+12,Licenciatura en Astronomia y Astrofisica,6.5,59,Facultad de Ciencias Jurdicas
+13,Licenciatura en Ciencias Juridicas y Sociales,1,57,Facultad de Ciencias Jurdicas
+14,Especialidad en Derecho Penal y Procesal Penal,2,48,Facultad de Ciencias Jurdicas
+15,Maestria en Ciencias Politicas y Gestion Estatal,2,62,Facultad de Ciencias Jurdicas
+16,Maestria en Derecho Maritimo y Gestion Portuaria,2,52,Facultad de Ciencias Jurdicas
+17,Maestria en Derecho Mercantil,2,50,Facultad de Ciencias Jurdicas
+18,Maestria en Derechos Humanos y Desarrollo,6,63,Facultad de Odontologia
+19,Doctor en Cirugia Dental,2,51,Facultad de Odontologia
+20,Especialidad en Rehabilitacion Bucal en Protesis,8,48,Facultad de Ciencias Medicas
+21,Doctorado en Medicina y Cirugia,3,62,Facultad de Ciencias Medicas
+22,Especialidad en Anatomia Patologica,4,48,Facultad de Ciencias Medicas
+23,"Especialidad en Anestesiologia, Reanimacion y Dolor",3,49,Facultad de Ciencias Medicas
+24,Especialidad en Cirugia General,3,56,Facultad de Ciencias Medicas
+25,Sub-especialidad en Cirugia Plastica y Reconstructiva,3,57,Facultad de Ciencias Medicas
+26,Especialidad en Dermatologia,3,59,Facultad de Ciencias Medicas
+27,Especialidad en Ginecologia y Obstetricia,3,57,Facultad de Ciencias Medicas
+28,Especialidad en Medicina de Rehabilitacion,3,50,Facultad de Ciencias Medicas
+29,Especialidad en Medicina Interna,5,63,Facultad de Ciencias Medicas
+30,Especialidad en Neurocirugia General,4,55,Facultad de Ciencias Medicas
+31,Especialidad en Neurologia,3,57,Facultad de Ciencias Medicas
+32,Especialidad en Oftalmologia,4,46,Facultad de Ciencias Medicas
+33,Especialidad en Oncologia Quirurgica,3,58,Facultad de Ciencias Medicas
+34,Especialidad en Ortopedia y Traumatologia,4,62,Facultad de Ciencias Medicas
+35,Especialidad en Otorrinolaringologia,3,58,Facultad de Ciencias Medicas
+36,Especialidad en Pediatria,2,45,Facultad de Ciencias Medicas
+37,Sub-especialidad en Cuidados Intensivos Pediatricos,3,45,Facultad de Ciencias Medicas
+38,Especialidad en Psiquiatria,5,60,Facultad de Ciencias Medicas
+39,Licenciatura en Nutricion,5,65,Facultad de Ciencias Medicas
+40,Licenciatura en Enfermeria,5,45,Facultad de Ciencias Medicas
+41,Ingenieria Electrica,5,53,Facultad de Ingenieria
+42,Ingenieria Civil,5,51,Facultad de Ingenieria
+43,Ingenieria en Sistemas,5,47,Facultad de Ingenieria
+44,Ingenieria Industrial,5,49,Facultad de Ingenieria
+45,Ingenieria Mecanica,5,47,Facultad de Ingenieria
+46,Ingenieria Quimica,6.5,51,Facultad de Ingenieria
+47,Arquitectura,5,54,Facultad de Humanidades y Artes
+48,Licenciatura en Filosofia,5,50,Facultad de Humanidades y Artes
+49,Licenciatura en Letras,5,51,Facultad de Humanidades y Artes
+50,Licenciatura en Musica,5,55,Facultad de Humanidades y Artes
+51,Licenciatura en Pedagogia,4,47,Facultad de Humanidades y Artes
+52,Licenciatura en Antropologia,2,50,Facultad de Ciencias Sociales
+53,Maestria en Demografia y Desarrollo,2,52,Facultad de Ciencias Sociales
+54,Maestria en Desarrollo Local,4.5,53,Facultad de Ciencias Sociales
+55,Licenciatura en Historia,2,58,Facultad de Ciencias Sociales
+56,Maestria en Historia Social y Cultural,4,50,Facultad de Ciencias Sociales
+57,Licenciatura en Sociologia,4,56,Facultad de Ciencias Sociales
+58,Licenciatura en Trabajo Social,2,53,Facultad de Ciencias Sociales
+59,Maestria en Sociologia,5,59,Facultad de Ciencias Sociales
+60,Licenciatura en Psicologia,2,48,Facultad de Ciencias Sociales
+61,Maestria en Psicologia Clinica,2,60,Facultad de Ciencias Sociales
+62,Maestria en Psicologia Industrial,2,65,Facultad de Ciencias Sociales
+63,Maestria en Psicologia Clinica,2,63,Facultad de Ciencias Sociales
+64,Maestria en Psicometria y Evaluacion Educativa,4.5,62,Facultad de Ciencias Sociales
+65,Licenciatura en Periodismo,2,61,Facultad de Ciencias Sociales
